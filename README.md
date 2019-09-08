@@ -27,12 +27,8 @@ Our view is that Factory24 will play a pivotal role in transforming Africa's hum
 leapfroging the continent into the 5th industrial revolution thus the coordination of efforts will include 
 helping to connect teams, cross-promote the products and protocols, as well as provide strategic grants.
 
+The intended scale is 1 to 6 person-months of effort, plus direct expenses such as servers and cloud services. 
+If your project falls within our scope & scale refer to our [Structure of Submission]() to begin submission process.
 
-## Structure of a Submission
 
-## Progress Reports
-
-## Crowdfunding Platform
-
-## Moderation and Code of Conduct
 
