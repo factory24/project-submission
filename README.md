@@ -12,9 +12,13 @@ instructions.
 
 # Scope
 
-Focus areas such as Big data & Analytics, Artificial Intelligence,  Internet of Things(IOT) / Smart Machines, Blockchain, Augmented Reality /Virtual Reality,  Connectivity (Next Gen - 5G), Cloud & Quantum computing, API platforms (integration), Robotics & Automation, Instant Payments and appropriate technologies (USSD).
+We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com). 
+The scope of our focus areas is broad, and can include: Big data & Analytics, Artificial Intelligence, 
+Internet of Things(IOT) / Smart Machines, Blockchain, Augmented Reality /Virtual Reality,  Connectivity 
+(Next Gen - 5G), Cloud & Quantum computing, API platforms (integration), Robotics & Automation, Instant 
+Payments and appropriate technologies (USSD).
 
-![Afrolynk Factory24](assets/images/Afrolynk-Logo-Color.png "Afrolynk Factory24")
+![Key Focus](assets/img/Key-Focus.png "Key Focus")
 
 # Structure of a Submission
 
