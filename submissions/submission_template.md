@@ -1,8 +1,9 @@
 # Submission Template
 
-To submit a proposal, please create a PR against this template in this repo. Please title your file `rfp-proposal-title.md`, replacing `title` with the name of your project.
+To submit a project, create a new-branch from this repo - labelled the title of your project e.g `data-mining-project` & 
+open a new PR also labelled by the `title` of your project. 
 
-# RFP Proposal: `Project Title`
+# Project Submission: `Project Title`
 
 **Name of Project:**
 
