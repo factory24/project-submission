@@ -10,7 +10,7 @@ next generation products and solutions to support the startup ecosystem. This pu
 hosts the complete guideline of how to submit project ideas including templates and step-by-step 
 instructions. 
 
-# Scope
+## Scope
 
 We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com/afrolyn2019/#section-brief). The scope of our focus areas is broad, and can include: Big data & Analytics, Artificial Intelligence, 
 Internet of Things(IOT) / Smart Machines, Blockchain, Augmented Reality /Virtual Reality,  Connectivity 
@@ -28,11 +28,11 @@ leapfroging the continent into the 5th industrial revolution thus the coordinati
 helping to connect teams, cross-promote the products and protocols, as well as provide strategic grants.
 
 
-# Structure of a Submission
+## Structure of a Submission
 
-# Progress Reports
+## Progress Reports
 
-# Crowdfunding Platform
+## Crowdfunding Platform
 
-# Moderation and Code of Conduct
+## Moderation and Code of Conduct
 
