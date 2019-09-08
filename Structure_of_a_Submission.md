@@ -21,3 +21,16 @@ the community.
 
 If you would like to see some example responses then check out the following document in this repo: 
 [submission-examples.md]()
+
+### Submitting Process
+
+Once you've familiazrized yourself with the submission template & example, submit your project by following
+this easy steps:
+
+* Fork this repository
+* Create a `new-branch` labelled the title of your project e.g *data-mining-project*
+* Update your changes on the new branched repo
+* Push to branch and open a new PR
+
+If your project is accepted, the branch will be merged and new repository for your project will be created 
+at [Factory24](https://github.com/factory24).
