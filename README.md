@@ -1,4 +1,4 @@
-# Project Submission
+# 📥 Project Submission
 
 [![](https://img.shields.io/badge/made%20by-Afrolynk-maroon.svg?style=flat-square)](https://afrolynk.com/)
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
@@ -12,12 +12,12 @@ instructions.
 
 ## Scope
 
-We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com/afrolyn2019/#section-brief). The scope of our focus areas is broad, and can include: Big data & Analytics, Artificial Intelligence, 
+We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com/afrolyn2019/#section-brief). The scope of our focus areas is broad, and can include: `Big data & Analytics, Artificial Intelligence, 
 Internet of Things(IOT) / Smart Machines, Blockchain, Augmented Reality /Virtual Reality,  Connectivity 
 (Next Gen - 5G), Cloud & Quantum computing, API platforms (integration), Robotics & Automation, Instant 
-Payments and appropriate technologies (USSD).
+Payments and appropriate technologies (USSD)`.
 
-![Key Focus](assets/img/Key-Focus.png "Key Focus")
+![Key Focus](img/key-focus.png "Key Focus")
 
 With the ultimate goal of being the platform and the source of disruptive innovations in Africa, Factory24 
 will help coordinate the efforts of teams working together to develop and build solutions that overcome 
@@ -28,7 +28,7 @@ leapfroging the continent into the 5th industrial revolution thus the coordinati
 helping to connect teams, cross-promote the products and protocols, as well as provide strategic grants.
 
 The intended scale is 1 to 6 person-months of effort, plus direct expenses such as servers and cloud services. 
-If your project falls within our scope & scale refer to our [Structure of Submission]() to begin submission process.
+If your project falls within our scope & scale refer to our **Structure of Submission** to begin submission process.
 
 ## Structure of a Submission
 
@@ -47,7 +47,6 @@ our standard response template. The formal submission document should be structu
 We would appreciate getting to know the key details as clearly as possible. You are free to modify 
 this [example template]() to suit your response, but we are aiming for structured correspondence with 
 the community.
-
 
 ### Examples
 
