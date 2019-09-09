@@ -62,10 +62,9 @@ Please describe (in words) your team's relevant experience, and why you think wo
     - Team Member 1
     - Team Member 2
     - Team Member 3
-    - ...
 * Please link to your team's website here (make sure it's `https`)
 * Please provide links to your team's prior code repos for similar or related projects.
 
 ## Additional Information
 
-Please include any additional information that you think would be useful in helping us to evaluate your grant application.
+Please include any additional information that you think would be useful in helping us to evaluate your project submission.
