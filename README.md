@@ -30,7 +30,7 @@ helping to connect teams, cross-promote the products and protocols, as well as p
 The intended scale is 1 to 6 person-months of effort, plus direct expenses such as servers and cloud services. 
 If your project falls within our scope & scale refer to our [Structure of Submission]() to begin submission process.
 
-# Structure of a Submission
+## Structure of a Submission
 
 To smooth out our collaboration process we request all proposals to be supplied through 
 our standard response template. The formal submission document should be structured as follows:
