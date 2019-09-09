@@ -45,13 +45,13 @@ our standard response template. The formal submission document should be structu
  * Email address(es) for direct contact
 
 We would appreciate getting to know the key details as clearly as possible. You are free to modify 
-this [example template]() to suit your response, but we are aiming for structured correspondence with 
-the community.
+this [example template](https://github.com/factory24/project-submission/blob/master/submissions/example-template.md) 
+to suit your response, but we are aiming for structured correspondence with the community.
 
 ### Examples
 
 If you would like to see some example responses then check out the following document in this repo: 
-[submission-examples.md]()
+[submission-examples.md](https://github.com/factory24/project-submission/blob/master/submissions/submission_template.md)
 
 ### Submitting Process
 
