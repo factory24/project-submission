@@ -12,9 +12,9 @@ instructions.
 
 ## Scope
 
-We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com/afrolyn2019/#section-brief). The scope of our focus areas is broad, and can include: `Big data & Analytics, Artificial Intelligence, 
-Internet of Things(IOT) / Smart Machines, Blockchain, Augmented Reality /Virtual Reality,  Connectivity 
-(Next Gen - 5G), Cloud & Quantum computing, API platforms (integration), Robotics & Automation, Instant 
+We are interested in onboarding projects that support both the Mission and Values of [Afrolynk](https://afrolynk.com/afrolyn2019/#section-brief). The scope of our focus areas is broad, and can include: `Big data & Analytics, Artificial Intelligence, Cloud & Quantum computing,
+Internet of Things(IOT), Blockchain, Augmented Reality /Virtual Reality,  Connectivity 
+(Next Gen - 5G), API platforms (integration), Robotics & Automation, Smart Machines, Instant 
 Payments and appropriate technologies (USSD)`.
 
 ![Key Focus](img/key-focus.png "Key Focus")
